@@ -25,6 +25,7 @@ dependencies = [
     "numpy",
     "pandas",
     "pip",
+    "pydot>=4.0.1",
     "python-dotenv",
     "ruff",
     "scikit-learn",
