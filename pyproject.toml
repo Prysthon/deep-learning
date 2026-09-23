@@ -18,6 +18,7 @@ classifiers = [
 dependencies = [
     "ipython",
     "jupyterlab",
+    "keras>=3.15.1",
     "matplotlib",
     "mkdocs",
     "notebook",
@@ -28,6 +29,7 @@ dependencies = [
     "ruff",
     "scikit-learn",
     "tensorflow>=2.21.0",
+    "torch>=2.14.0",
 ]
 requires-python = "~=3.12.0"
 
